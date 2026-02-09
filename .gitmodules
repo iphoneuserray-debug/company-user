@@ -1,0 +1,6 @@
+[submodule "nest"]
+	path = nest
+	url = https://github.com/iphoneuserray-debug/nest.git
+[submodule "next"]
+	path = next
+	url = https://github.com/iphoneuserray-debug/website.git
